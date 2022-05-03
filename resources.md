@@ -43,7 +43,7 @@
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
 ## Contents
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)

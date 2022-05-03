@@ -14,7 +14,7 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 ## Contents
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
