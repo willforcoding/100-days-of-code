@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
-## Day 0: May 3, 2022
+## Day 0: Preparation
+May 3, 2022
 
 ### **Today's Progress**
 - [Post](https://twitter.com/willforcoding/status/1521146431624855552) asking for course recommendation
@@ -33,9 +34,11 @@ Surprisingly there are many free and good resources out there. I will try the fr
 
 ### [Link to post](https://twitter.com/willforcoding/status/1521537604269002752)
 
-## Day 1: May 4, 2022
+## Day 1: HTML
+May 4, 2022
 
 ### **Today's Progress**
+- Change Github Pages to Cloudflare pages to use custom domain
 - Basic HTML and HTML5
 	- HTML Elements
 	- Heading (`h1-6`)
@@ -45,20 +48,26 @@ Surprisingly there are many free and good resources out there. I will try the fr
 	- Anchor Elements (`a`) for external and internal
 	- Images (`img`)
 	- Unordered and ordered list ( `ul` and `ol`)
-	- Text field (`input`) + placeholder
 	- Form Element (`form`)
+	- Text field (`input`) + placeholder
 	- Submit Form (`button type="submit"`)
 	- HTML5 Required Field (`required`)
 	- Radio Button and Checkbox (input grouped by name attribute)
 	- Nesting HTML Element
 	- HTML Structure (Doctype `html` `head` `body`)
     - Empty Element
-	- Semantic Element
-- 
+- Page to include all html element that I tried - [link](projects/hello.html)
+- HTML Elements
+    ![HTML Element.png](/assets/HTML%20Element.png)
+    ![HTML Element with Attribute.png](/assets/HTML%20Element%20with%20Attribute.png)
+- Resources
+    - [MDN Basic HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+    - [MDN All HTML Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ### **Thoughts**
+There are many tag with functionality that we can use without having to code anything
 
-### [Link to post](https://twitter.com/willforcoding/status/1521537604269002752)
+### [Link to post](https://twitter.com/willforcoding/status/1522008803243610113)
 
 ## Contents
 * [Log - click here to see my progress](log.md)
