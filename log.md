@@ -106,9 +106,13 @@ May 10, 2022
 	- CSS googly eyes, you can copy the css and assign `googly-eyes` class to any html element to add googly eyes 🤣 - [link](projects/googly-eyes)
 - CSS Declaration
 	- CSS Declaration Syntax
+
 	![CSS Declaration.png](assets/CSS%20Declaration.png)
+
 	- CSS Box Model
+
 	![CSS box model.png](assets/CSS%20box%20model.png)
+	
 - Resources
 	- [FreeCodeCamp Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
 	- [MDN Basic CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
