@@ -298,6 +298,7 @@ May 13, 2022
 -	Projects
 	- CSS Animal Flip Card - [Link](projects/css-animal-flip-card)
 -   Resources
+	- [Freecodecamp Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
 	- [W3Schools How to make flip card](https://www.w3schools.com/howto/howto_css_flip_card.asp)
 	- [MDN Transform Style](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-style)
 	- [MDN Perspective](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective)
