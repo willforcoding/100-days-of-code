@@ -107,7 +107,7 @@ June 13, 2022
 		- `vmax` (viewport maximum): `100vmax` would be 100% of the viewport's bigger dimension (height or width).
 
 ### **Thoughts**
-Learned how to develop our website usable by as many people as possible. No project complete on this day. After this will switch to new freecodecamp new project based learning.
+Learned how to develop our website usable by as many people as possible. No project for this day. After this will switch to new freecodecamp new project based learning.
 
 ### **Questions**
 Is there any way to check your site already accessible enough?
