@@ -1,4 +1,4 @@
-## Day 4: Applied Accessibility
+## Day 5: Learn HTML by Building a Cat Photo App
 June 14, 2022
 
 ### **Today's Progress**
