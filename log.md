@@ -10,6 +10,9 @@
 
 [Day 4: Applied Accessibility](/daily/day4.md)
 
+[Day 5: Learn HTML by Building a Cat Photo App](/daily/day5.md)
+
+
 ## Contents
 * [Log - click here to see my progress](log.md)
 * [Rules](rules.md)
