@@ -12,6 +12,7 @@
 
 [Day 5: Learn HTML by Building a Cat Photo App](/daily/day5.md)
 
+[Day 6: Learn Basic CSS by Building a Cafe Menu](/daily/day6.md)
 
 ## Contents
 * [Log - click here to see my progress](log.md)
