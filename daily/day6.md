@@ -1,4 +1,4 @@
-## Day 5: Learn HTML by Building a Cat Photo App
+## Day 6: Learn Basic CSS by Building a Cafe Menu
 June 15, 2022
 
 ### **Today's Progress**
