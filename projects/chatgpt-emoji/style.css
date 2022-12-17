@@ -1,0 +1,75 @@
+/* Style the body and the container for the emojis */
+
+:root {
+    --light-bg-color: #fff;
+    --light-text-color: #000;
+    --dark-bg-color: #000;
+    --dark-text-color: #fff;
+}
+
+
+/* Light mode styles */
+
+body {
+    background-color: var(--light-bg-color);
+    color: var(--light-text-color);
+}
+
+
+/* Dark mode styles */
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: var(--dark-bg-color);
+        color: var(--dark-text-color);
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#emoji-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+/* Style the category buttons and the emojis */
+
+.category {
+    display: inline-block;
+    margin: 0 5px 10px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+/* Hide the emojis by default */
+
+.emoji {
+    display: none;
+    margin: 10px;
+    width: 80vmin;
+    height: 80vmin;
+    font-size: calc(80vmin * 0.3);
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    line-height: 75px;
+}
+
+
+/* Style the buttons so they are displayed in a single column on small screens */
+
+@media only screen and (max-width: 600px) {
+    .emoji {
+        width: 100%;
+        margin: 10px 0;
+    }
+}
